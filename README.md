@@ -1,0 +1,2 @@
+# fiAmortizingBond
+An amortizing bond is a bond whose principal (face value) decreases due to repaying part of the principal along with the coupon payments. Each payment to the amortizing bond holder consists of a portion of interest and a portion of principal. While an accreting bond is a bond whose principal increases during the life of the deal. Each payment to the accreting bond holder is just a part of interest. The other part of coupon is added to the principal of the bond. 
