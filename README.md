@@ -61,5 +61,5 @@ Day Count	dcAct365	36.5	11/30/2015
 Payment Frequency	6M	28.75	5/31/2016
 Coupon	0.0434	21	11/30/2016
 
-You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+Reference:
+https://finpricing.com/faq.html
