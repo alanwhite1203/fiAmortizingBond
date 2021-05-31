@@ -61,5 +61,9 @@ Day Count	dcAct365	36.5	11/30/2015
 Payment Frequency	6M	28.75	5/31/2016
 Coupon	0.0434	21	11/30/2016
 
-Reference:
-https://finpricing.com/faq.html
+References:
+
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cmrm11/fiamortizingbond/downloads/FiAmortizingBond-9.pdf
+
