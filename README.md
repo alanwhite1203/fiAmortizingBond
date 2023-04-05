@@ -63,7 +63,5 @@ Coupon	0.0434	21	11/30/2016
 
 References:
 
-https://finpricing.com/lib/EqRangeAccrual.html
-
-https://bitbucket.org/cmrm11/fiamortizingbond/downloads/FiAmortizingBond-9.pdf
+https://finpricing.com/faq.html
 
